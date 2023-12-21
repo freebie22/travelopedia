@@ -11,6 +11,12 @@
       "city": "Chicago",
       "country": "USA",
       "daysNeeded": 5
+    },
+    {
+      "id": 66.29086539601899,
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "daysNeeded": 8
     }
   ]
 }
